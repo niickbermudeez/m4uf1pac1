@@ -1,0 +1,36 @@
+#foto_quevedo1
+{
+    margin-top:5vh;
+    margin-left:10vw;
+}
+
+#foto_quevedo1:hover
+{
+    transform: scale(1.2); 
+}
+
+#foto_quevedo2
+{
+    margin-top:5vh;
+    margin-left:55vw;
+}
+
+#foto_quevedo3
+{
+    margin-top:5vh;
+    margin-left:10vw;
+}
+
+#foto_quevedo3:hover
+{
+    transform: scale(1.2); 
+
+}
+
+
+
+#foto_quevedo4
+{
+    margin-top:5vh;
+    margin-left:55vw;
+}

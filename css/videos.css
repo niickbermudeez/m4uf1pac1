@@ -1,0 +1,17 @@
+article h2
+{
+    text-align: center;
+    font: bold x-large "Arial", monospace;
+    text-decoration: underline black;
+}
+
+#video_quevedo1
+{
+    margin-left: 7vw;
+}
+
+
+#video_quevedo2
+{
+    margin-left: 25vw;
+}
